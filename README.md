@@ -1,1 +1,1 @@
-# GRIP---Internship
+# GRIP-Internship
